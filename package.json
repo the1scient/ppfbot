@@ -1,0 +1,20 @@
+{
+  "name": "hycebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "mysql-promise": "^5.0.0",
+    "ontime": "0.0.6",
+    "superagent": "^5.1.0"
+  }
+}

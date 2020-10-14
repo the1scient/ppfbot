@@ -1,0 +1,24 @@
+{
+    "activitys":[
+        {
+            "type":"WATCHING",
+            "message":"O meu desenvolvimento."
+        },
+        {
+            "type":"PLAYING",
+            "message":"{users} usuários, em {channels} canais, no servidor do PowerPixel."
+        },
+        {
+            "type":"STREAMING",
+            "message":"Meu desenvolvimento - ao vivo hein!"
+        },
+        {
+            "type":"PLAYING",
+            "message":"Alguma dúvida? Dê :ajuda em algum canal do PowerPixel!"
+        },
+        {
+            "type":"PLAYING",
+            "message":"Os concorrentes no lixo!"
+        }
+    ]
+}
